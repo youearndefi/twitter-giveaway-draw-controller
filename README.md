@@ -1,5 +1,5 @@
 # Youearn's Twitter Giveaway winners generator
-This code will generate 4 winners address randomly, the address will be fetched on the Tweet: https://twitter.com/YouearnD/status/1309648638696591360
+This code will generate 4 winners randomly, the address will be fetched on the Tweet: https://twitter.com/YouearnD/status/1309648638696591360
 
 The code will find the addresses in quote tweets and tweet replies.
 
