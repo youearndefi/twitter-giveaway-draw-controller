@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "node index.js"
+    "draw": "node index.js"
   },
   "author": "youearn.finance",
   "license": "ISC",
