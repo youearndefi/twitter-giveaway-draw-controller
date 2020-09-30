@@ -3,7 +3,7 @@ This code will generate 4 winners randomly, the address will be fetched on the T
 
 The code will find the addresses in quote tweets and tweet replies.
 
-All results will be stored in `results` folder. The results including the executing video, will be uploaded on 10AM00 UTC+0, Sept 29, 2020.
+All results will be stored in the `results` folder. The results including the executing video, will be uploaded on 10AM00 UTC+0, Sept 29, 2020.
 
 # To run this code
 
